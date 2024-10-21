@@ -1,0 +1,116 @@
+body{
+    background-color: #eee;
+}
+.bg{
+    background-image:url(./banner2.jpg);
+    background-size: 100% 170%;
+}
+.main{
+    display:block;
+    position:relative;
+    text-align:center;
+    background-image: url('./plan_bg.png');
+    background-size:100% 100%;
+}
+.section3{
+    display:block;
+    position: relative;
+    text-align: center;
+}
+.section4{
+    display: block;
+    position: relative;
+    background-image: url('./about_bg.jpg');
+    background-size: 100% 100%;  
+}
+.section5{
+    
+    display: block;
+    position: relative;
+    text-align: center;
+}
+.section6{
+    
+    display: block;
+    position: relative;
+    text-align: center;
+}
+.section7{
+    background: #252525;
+    padding-bottom: 20px;
+    margin-top: 160px;
+
+    display: block;
+    position: relative;
+    text-align: center;
+}
+*{
+            padding: 0;
+            margin: 0;
+
+        }
+        .head,.under,.logo{
+            display: inline-block;
+            margin-left:30px;
+            
+             }
+             .logo{
+                color: aliceblue;
+                padding-left:60px;
+                 }
+            
+            .head{
+                padding-right: 10px;
+            }
+            h1{
+               padding: 30px;
+               font-size:60px;
+            }
+            .under{
+                
+                font-size:larger;
+                padding-left: 150px;
+                margin-left: 50px;
+            }
+            div{
+                /* padding-top:20px; */
+                margin-left:30px;
+                padding-bottom:20px;
+            }
+            .under:hover
+            {
+                color: antiquewhite;
+            }
+           
+            
+            button{
+                margin-left: 20px;
+                margin-top: 20px;
+                padding-left: 50px;
+                padding-right: 50px;
+                padding-top:20px;
+                padding-bottom: 20px;
+                 border: none;
+                border-radius: 40px;
+                background-color:darkslategray;
+                color: white;
+                font-size: 20px;
+                }
+                
+                .rings
+                {
+                  margin: 10px;   
+                }
+                section{
+                    padding-left: 30px;
+                }
+            
+            
+
+            
+            
+            
+        
+
+            
+             
